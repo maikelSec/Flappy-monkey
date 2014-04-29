@@ -8,7 +8,7 @@
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("Clancey")]
+[assembly: AssemblyCopyright("Arubaboracho")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 // The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
